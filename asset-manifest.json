@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactAriel/static/css/main.e993a894.css",
+    "main.js": "/ReactAriel/static/js/main.9f5752ef.js",
+    "static/js/787.354e309c.chunk.js": "/ReactAriel/static/js/787.354e309c.chunk.js",
+    "static/media/mainbg.jpeg": "/ReactAriel/static/media/mainbg.8cf0e80f2b01d8a0e028.jpeg",
+    "index.html": "/ReactAriel/index.html",
+    "main.e993a894.css.map": "/ReactAriel/static/css/main.e993a894.css.map",
+    "main.9f5752ef.js.map": "/ReactAriel/static/js/main.9f5752ef.js.map",
+    "787.354e309c.chunk.js.map": "/ReactAriel/static/js/787.354e309c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e993a894.css",
+    "static/js/main.9f5752ef.js"
+  ]
+}
